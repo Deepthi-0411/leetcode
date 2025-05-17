@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepthi-0411/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Deepthi-0411/leetcode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Deepthi-0411/leetcode/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Deepthi-0411/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
