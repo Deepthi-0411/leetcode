@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepthi-0411/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Deepthi-0411/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Deepthi-0411/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0978-valid-mountain-array](https://github.com/Deepthi-0411/leetcode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepthi-0411/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Deepthi-0411/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
