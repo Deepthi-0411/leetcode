@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Deepthi-0411/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Deepthi-0411/leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Deepthi-0411/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Deepthi-0411/leetcode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Deepthi-0411/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepthi-0411/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Deepthi-0411/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
