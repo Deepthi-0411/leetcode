@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Deepthi-0411/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Deepthi-0411/leetcode/tree/master/0686-repeated-string-match) |
+| [0742-to-lower-case](https://github.com/Deepthi-0411/leetcode/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
 | ------- |
