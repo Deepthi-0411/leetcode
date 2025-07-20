@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Deepthi-0411/leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepthi-0411/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
