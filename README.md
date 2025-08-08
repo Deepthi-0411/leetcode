@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Deepthi-0411/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Deepthi-0411/leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Deepthi-0411/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Deepthi-0411/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Deepthi-0411/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Deepthi-0411/leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
