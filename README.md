@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Deepthi-0411/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Deepthi-0411/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Deepthi-0411/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/Deepthi-0411/leetcode/tree/master/0620-not-boring-movies) |
 | [1523-capital-gainloss](https://github.com/Deepthi-0411/leetcode/tree/master/1523-capital-gainloss) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Deepthi-0411/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1877-find-followers-count](https://github.com/Deepthi-0411/leetcode/tree/master/1877-find-followers-count) |
