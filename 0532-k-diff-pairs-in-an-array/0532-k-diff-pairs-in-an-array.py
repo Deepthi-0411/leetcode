@@ -1,11 +1,19 @@
+from collections import Counter
+
 class Solution(object):
     def findPairs(self, nums, k):
-        result = set()
-        for i in range (len(nums)):
-            for j in range (i+1, len(nums)):
-                if abs(nums[i]-nums[j]) == k:
-                    result.add ((min(nums[i], nums[j]), max(nums[i], nums[j])))
-        return len(result)
+        counter = Counter(nums)
+        result = 0
+    
+        if k == 0:
+            for num in counter:
+                if counter[num] > 1:
+                    result += 1
+        else:
+            for num in counter:
+                if num + k in counter:
+                    result += 1
+        return result
 
 
         
