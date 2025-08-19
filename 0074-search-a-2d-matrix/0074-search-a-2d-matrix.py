@@ -1,5 +1,5 @@
-class Solution:
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+class Solution(object):
+    def searchMatrix(self, matrix, target):
         if not matrix or not matrix[0]:
             return False
 
@@ -19,5 +19,6 @@ class Solution:
                 left = mid + 1
             else:
                 right = mid - 1
-        return False 
+        return False
+        
         
