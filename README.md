@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Deepthi-0411/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Deepthi-0411/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Deepthi-0411/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepthi-0411/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepthi-0411/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Deepthi-0411/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Deepthi-0411/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Deepthi-0411/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Deepthi-0411/leetcode/tree/master/0231-power-of-two) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Deepthi-0411/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Deepthi-0411/leetcode/tree/master/1791-richest-customer-wealth) |
