@@ -1,5 +1,5 @@
-class Solution:
-    def maxArea(self, height: List[int]) -> int:
+class Solution(object):
+    def maxArea(self, height):
         l,r = 0,len(height)-1
         max_water = 0
 
@@ -13,4 +13,8 @@ class Solution:
             else:
                 r -= 1
         return max_water
+        
+
+
+       
         
