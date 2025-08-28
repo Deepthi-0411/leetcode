@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepthi-0411/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Deepthi-0411/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Deepthi-0411/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Deepthi-0411/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Deepthi-0411/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi-0411/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deepthi-0411/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Deepthi-0411/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Deepthi-0411/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Deepthi-0411/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Deepthi-0411/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Deepthi-0411/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deepthi-0411/leetcode/tree/master/0342-power-of-four) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepthi-0411/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Deepthi-0411/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepthi-0411/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Deepthi-0411/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Deepthi-0411/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Deepthi-0411/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
