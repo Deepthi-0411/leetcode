@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/Deepthi-0411/leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi-0411/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Deepthi-0411/leetcode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi-0411/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Deepthi-0411/leetcode/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Deepthi-0411/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi-0411/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepthi-0411/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Deepthi-0411/leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Deepthi-0411/leetcode/tree/master/1448-maximum-69-number) |
 ## Matrix
 |  |
