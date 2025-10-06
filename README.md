@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Deepthi-0411/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Deepthi-0411/leetcode/tree/master/0500-keyboard-row) |
 | [0686-repeated-string-match](https://github.com/Deepthi-0411/leetcode/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/Deepthi-0411/leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Deepthi-0411/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Deepthi-0411/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Deepthi-0411/leetcode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Deepthi-0411/leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Deepthi-0411/leetcode/tree/master/0696-count-binary-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
