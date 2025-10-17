@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepthi-0411/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Deepthi-0411/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Deepthi-0411/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Deepthi-0411/leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Deepthi-0411/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepthi-0411/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Deepthi-0411/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Deepthi-0411/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Deepthi-0411/leetcode/tree/master/0500-keyboard-row) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepthi-0411/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Deepthi-0411/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deepthi-0411/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deepthi-0411/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepthi-0411/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Deepthi-0411/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Deepthi-0411/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
