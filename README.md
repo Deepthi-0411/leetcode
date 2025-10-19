@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Deepthi-0411/leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Deepthi-0411/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Deepthi-0411/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepthi-0411/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepthi-0411/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Deepthi-0411/leetcode/tree/master/0496-next-greater-element-i) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
