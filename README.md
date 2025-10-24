@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Deepthi-0411/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepthi-0411/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Deepthi-0411/leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/Deepthi-0411/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepthi-0411/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
