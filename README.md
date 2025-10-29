@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Deepthi-0411/leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Deepthi-0411/leetcode/tree/master/1642-water-bottles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Deepthi-0411/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepthi-0411/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Deepthi-0411/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Deepthi-0411/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
