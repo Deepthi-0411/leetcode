@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Deepthi-0411/leetcode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Deepthi-0411/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
+| [1078-remove-outermost-parentheses](https://github.com/Deepthi-0411/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Deepthi-0411/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepthi-0411/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepthi-0411/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Deepthi-0411/leetcode/tree/master/0496-next-greater-element-i) |
+| [1078-remove-outermost-parentheses](https://github.com/Deepthi-0411/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
