@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Deepthi-0411/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1274-number-of-days-between-two-dates](https://github.com/Deepthi-0411/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Deepthi-0411/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
