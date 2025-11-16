@@ -1,13 +1,11 @@
 class Solution:
     def numSub(self, s: str) -> int:
         mod = 10**9 + 7
-        ans = streak = 0
+        ans = cur = 0
         for c in s:
-            if c == '1':
-                streak += 1
-                ans = (ans + streak) % mod
-            else:
-                streak = 0
+            cur = cur + 1 if c == '1' else 0
+            ans = (ans + cur) % mod
         return ans
+        
 
         
