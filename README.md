@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Deepthi-0411/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepthi-0411/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepthi-0411/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Deepthi-0411/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepthi-0411/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepthi-0411/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepthi-0411/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Deepthi-0411/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepthi-0411/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepthi-0411/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
