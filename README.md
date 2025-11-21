@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Deepthi-0411/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepthi-0411/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepthi-0411/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Deepthi-0411/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deepthi-0411/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepthi-0411/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deepthi-0411/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepthi-0411/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
