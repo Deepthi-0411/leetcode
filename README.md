@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0749-shortest-completing-word](https://github.com/Deepthi-0411/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Deepthi-0411/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Deepthi-0411/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepthi-0411/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Deepthi-0411/leetcode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi-0411/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Deepthi-0411/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Deepthi-0411/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/Deepthi-0411/leetcode/tree/master/1260-day-of-the-year) |
