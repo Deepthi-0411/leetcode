@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Deepthi-0411/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Deepthi-0411/leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepthi-0411/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Deepthi-0411/leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Deepthi-0411/leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepthi-0411/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
