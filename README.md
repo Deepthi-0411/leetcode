@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Deepthi-0411/leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Deepthi-0411/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Deepthi-0411/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Deepthi-0411/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Deepthi-0411/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Deepthi-0411/leetcode/tree/master/0500-keyboard-row) |
