@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Deepthi-0411/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
+| [1598-crawler-log-folder](https://github.com/Deepthi-0411/leetcode/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Deepthi-0411/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Deepthi-0411/leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepthi-0411/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/Deepthi-0411/leetcode/tree/master/1598-crawler-log-folder) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepthi-0411/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Deepthi-0411/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1598-crawler-log-folder](https://github.com/Deepthi-0411/leetcode/tree/master/1598-crawler-log-folder) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Deepthi-0411/leetcode/tree/master/1791-richest-customer-wealth) |
