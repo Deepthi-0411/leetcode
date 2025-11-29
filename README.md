@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Deepthi-0411/leetcode/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Deepthi-0411/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
+| [0925-long-pressed-name](https://github.com/Deepthi-0411/leetcode/tree/master/0925-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepthi-0411/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Deepthi-0411/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Deepthi-0411/leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Deepthi-0411/leetcode/tree/master/0696-count-binary-substrings) |
+| [0925-long-pressed-name](https://github.com/Deepthi-0411/leetcode/tree/master/0925-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
