@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Deepthi-0411/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepthi-0411/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepthi-0411/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Deepthi-0411/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Deepthi-0411/leetcode/tree/master/1929-concatenation-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepthi-0411/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Deepthi-0411/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Deepthi-0411/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepthi-0411/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deepthi-0411/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepthi-0411/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Deepthi-0411/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepthi-0411/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
