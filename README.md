@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Deepthi-0411/leetcode/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/Deepthi-0411/leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Deepthi-0411/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepthi-0411/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/Deepthi-0411/leetcode/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Deepthi-0411/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Deepthi-0411/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Deepthi-0411/leetcode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/Deepthi-0411/leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Deepthi-0411/leetcode/tree/master/0782-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Deepthi-0411/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepthi-0411/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1122-relative-sort-array](https://github.com/Deepthi-0411/leetcode/tree/master/1122-relative-sort-array) |
