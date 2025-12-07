@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/Deepthi-0411/leetcode/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Deepthi-0411/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1448-maximum-69-number](https://github.com/Deepthi-0411/leetcode/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepthi-0411/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Deepthi-0411/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Deepthi-0411/leetcode/tree/master/1642-water-bottles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Deepthi-0411/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
