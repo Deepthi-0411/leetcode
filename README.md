@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Deepthi-0411/leetcode/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepthi-0411/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Deepthi-0411/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Deepthi-0411/leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Deepthi-0411/leetcode/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Deepthi-0411/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Deepthi-0411/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepthi-0411/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepthi-0411/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
