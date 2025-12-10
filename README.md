@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Deepthi-0411/leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Deepthi-0411/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1496-path-crossing](https://github.com/Deepthi-0411/leetcode/tree/master/1496-path-crossing) |
 | [1524-string-matching-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
 | [1598-crawler-log-folder](https://github.com/Deepthi-0411/leetcode/tree/master/1598-crawler-log-folder) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Deepthi-0411/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1472-increasing-decreasing-string](https://github.com/Deepthi-0411/leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deepthi-0411/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-path-crossing](https://github.com/Deepthi-0411/leetcode/tree/master/1496-path-crossing) |
 | [1547-destination-city](https://github.com/Deepthi-0411/leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
