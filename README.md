@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deepthi-0411/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Deepthi-0411/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepthi-0411/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Deepthi-0411/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Deepthi-0411/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Deepthi-0411/leetcode/tree/master/0344-reverse-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Deepthi-0411/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Deepthi-0411/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Deepthi-0411/leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Deepthi-0411/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Deepthi-0411/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Deepthi-0411/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Deepthi-0411/leetcode/tree/master/0242-valid-anagram) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Deepthi-0411/leetcode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Deepthi-0411/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Deepthi-0411/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deepthi-0411/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Deepthi-0411/leetcode/tree/master/0389-find-the-difference) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepthi-0411/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Deepthi-0411/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepthi-0411/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -571,4 +575,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deepthi-0411/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepthi-0411/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Deepthi-0411/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
