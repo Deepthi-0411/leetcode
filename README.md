@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Deepthi-0411/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Deepthi-0411/leetcode/tree/master/1651-shuffle-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Deepthi-0411/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1768-merge-strings-alternately](https://github.com/Deepthi-0411/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Deepthi-0411/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Deepthi-0411/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepthi-0411/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Deepthi-0411/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Deepthi-0411/leetcode/tree/master/0925-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Deepthi-0411/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Deepthi-0411/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
